@@ -105,7 +105,7 @@ flutter --version
 ### 2. Clone the Repository
 Clone the codebase and navigate to the project directory:
 ```bash
-git clone <repository_url>
+git clone <https://github.com/amal945/ad_campain_dashboard.git>
 cd ad_campaign_dashboard
 ```
 
@@ -146,4 +146,4 @@ flutter test
 ### Contact Info
 For any questions regarding the implementation, feel free to reach out:
 * **Developer**: Amal S
-* **Email**: hr@mediaalacarte.net
+* **Email**: amalsaji332@gmail.com
